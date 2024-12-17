@@ -7,8 +7,11 @@ This project focuses on performing data analytics on Uber trip data using a mode
 #### Programming Language - Python
 
 #### Google Cloud Platform 
-  1.Google Storage  ( <br> )
-  2.Compute Instance
-  3.BigQuery
-  4.Looker Studio
+  1.Google Storage <br>
+  2.Compute Instance <br>
+  3.BigQuery <br>
+  4.Looker Studio <br>
 ##### Modern Data Pipeine Tool - https://www.mage.ai/
+## Data model
+![uber_data_model](https://github.com/user-attachments/assets/d8ab53ec-e107-4312-884f-13020031f9df)
+
