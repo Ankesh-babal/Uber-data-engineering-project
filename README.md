@@ -6,9 +6,9 @@ This project focuses on performing data analytics on Uber trip data using a mode
 ## Technology Used
 #### Programming Language - Python
 
-Google Cloud Platform #
-  1.Google Storage/
-  2.Compute Instance//
-  3.BigQuery/
-  4.Looker Studio/
-Modern Data Pipeine Tool - https://www.mage.ai/
+#### Google Cloud Platform 
+  1.Google Storage
+  2.Compute Instance
+  3.BigQuery
+  4.Looker Studio
+##### Modern Data Pipeine Tool - https://www.mage.ai/
